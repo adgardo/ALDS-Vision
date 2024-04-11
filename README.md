@@ -1,4 +1,6 @@
 # ALDS-Vision
+Este repositorio trata de detectar el punto de aterrizaje de un avión.
+Para ello, se centra en la detección de las ruedas y determinación de rotación de las mismas.
 
 Primero: Entrenamos el modelo de Yolo de detección de objetos para detectar ruedas.
 Podemos hacer detección de objetos y segmentación. 
